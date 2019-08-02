@@ -1,0 +1,12 @@
+BIOMES:
+  PLAINS:
+    WATER: true
+    LAVA: true
+    WATER_LOGGED: true
+    WATER_PLANTS: true
+WORLDS:
+  world:
+    WATER: true
+    LAVA: true
+    WATER_LOGGED: true
+    WATER_PLANTS: true
